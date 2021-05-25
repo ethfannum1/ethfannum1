@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ethfannum1
+- 👋 Hi, I’m Ethereum Fan #1 
 - 👀 I’m interested in ETH programming.
 - 🌱 I’m currently learning Solidity and all related stuff.
 - 📫 If you wish it you can send me tips using Brave Browser!
